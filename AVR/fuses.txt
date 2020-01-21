@@ -1,0 +1,4 @@
+Fuse bit set:
+-------------
+H:0xC3
+L:0x3F
