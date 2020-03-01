@@ -15,4 +15,4 @@ The board fits into STRAPUBOX 2230 universal box
 
 Ready to use device at [sellmyretro.com](https://www.sellmyretro.com/offer/details/40995)
 
-If you want support my designer fund with small donation, you can [PAYPAL.ME](https://www.paypal.me/tdididit)
+If you want support my designer fund with small donation, you can do it via [PAYPAL.ME](https://www.paypal.me/tdididit)
